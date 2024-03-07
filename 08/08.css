@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: mistyrose;
+}
+
+div > input {
+    display: inline;
+    height: 40px;
+    
+}
+
+div > button {
+    background-color: burlywood;
+    border-radius: 10px;
+    height: 40px;
+    width: 45px;
+}
+
+span{
+    font-style: italic;
+    color: brown;
+}

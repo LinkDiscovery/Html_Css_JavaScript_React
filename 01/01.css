@@ -1,0 +1,38 @@
+
+
+
+div.shin1 {
+    display: flex;
+    justify-content: right;
+    
+}
+
+button{
+    background-color: rgb(12, 15, 231);
+    color: white;
+    border-radius: 3px;
+    align-items: center;
+    padding: 6px;
+    margin: 5px;
+    
+}
+
+p {
+    font-size: 13px;
+}
+
+.Htmlimg{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+
+}
+
+h4{
+    padding: 0px;
+    margin: 0px;
+}
+
+.qwe{
+    display: flex;
+}

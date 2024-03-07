@@ -1,0 +1,33 @@
+button{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(28, 206, 66);
+    color: white;
+    border: 0px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#bt3 {
+    background-color: brown;
+}
+
+button:hover, #btArea2 > button:hover {
+    background-color: rgb(46, 165, 42);
+    color: rgb(240, 16, 16);
+    cursor: pointer;
+}
+
+h2{
+    font-size: medium;
+    color: blue;
+}
+
+.btGroup{
+    background-color: rgb(137, 233, 149);
+}
+#btArea2 > button{
+    color: rgb(30, 165, 131);
+    background-color: rgb(8, 243, 243);
+}
