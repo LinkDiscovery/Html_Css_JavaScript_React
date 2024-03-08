@@ -1,6 +1,43 @@
-div button {
-    width: 90px;
-    height: 50px;
-    background-color: rgb(193, 212, 21);
-    color: white;
+section span { 
+ display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 18px;
+ width: 60px;
+ height: 60px;
+ border-radius: 50%;
+ background-color: aqua;
+ border: 1px solid black;
+ font-weight: 800;
+}
+.i{
+    background-color: white;
+    border: none;
+    font-size: 30px;
+}
+#numDisp{
+    margin: 30px;
+}
+
+span{
+    margin: 5px;
+}
+
+.sp0{
+    background-color: greenyellow;
+}
+.sp1{
+    background-color: hotpink;
+}
+.sp2{
+    background-color: bisque;
+}
+.sp3{
+    background-color: yellow;
+}
+.sp4{
+    background-color: lightsteelblue;
+}
+.sp5{
+    background-color: sienna;
 }
